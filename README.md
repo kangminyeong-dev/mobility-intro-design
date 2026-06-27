@@ -30,19 +30,19 @@ visualization/ 과제 및 프로젝트 시연 영상
 
 ### 1. Crosswalk Detection
 
-`visualization/01_crosswalk_detection.mp4`
+<video src="visualization/01_crosswalk_detection.mp4" controls width="700"></video>
 
 ### 2. E-Stop
 
-`visualization/02_e_stop.mp4`
+<video src="visualization/02_e_stop.mp4" controls width="700"></video>
 
 ### 3. Midterm Project
 
-`visualization/03_midterm_project.mp4`
+<video src="visualization/03_midterm_project.mp4" controls width="700"></video>
 
 ### 4. Final Project
 
-`visualization/04_final_project.mp4`
+<video src="visualization/04_final_project.mp4" controls width="700"></video>
 
 ## Tech Stack
 
